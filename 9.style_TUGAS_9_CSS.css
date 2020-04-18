@@ -1,0 +1,16 @@
+body {
+    background-image: url('/Tugas_9_css/tugas5css1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgtext {
+
+    position: relative;
+    background-color: #ffffff;
+    width: 800px;
+    height: 680px;
+    text-align: right;
+    left: 1030px
+
+}
